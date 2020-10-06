@@ -6,8 +6,7 @@ import cv2
 import numpy as np
 from imutils.video import FPS
 
-# RTSP_URL = "rtsp://admin:@192.168.88.93:80/ch0_0.264"
-RTSP_URL = "rtsp://admin:@103.39.49.183:10511/live/0/main"
+RTSP_URL = "rtsp://admin:@192.168.88.93:80/ch0_0.264"
 YOLO_PATH = "yolo-coco"
 OUTPUT_FILE = "output/outfile0.avi"
 
